@@ -38,6 +38,7 @@ The intended purpose is to test your backend skills, ranging from System design,
 For Initial setup and activate backend, follow below instructions
 - Database connection
   - SET Database varibles(Local/Remote) at [Address Variable](./lib/CONSTANTS.js#L21)
+  - SET Database Tables from [Table Names](./lib/CONSTANTS.js#L26)
   - Assign Database varibles to ConnectionURI at [MongoDb Connection URI](./index.js#L20)
 - Follow Srcipts
   - `npm i`
