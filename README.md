@@ -35,8 +35,14 @@ The intended purpose is to test your backend skills, ranging from System design,
 5. Add "How to run instruction" in the area below
 
 ## How to run?
-To be added by the candidate
-
+For Initial setup and activate backend, follow below instructions
+- Database connection
+  - SET Database varibles(Local/Remote) at [Address Variable](./lib/CONSTANTS.js#L21)
+  - Assign Database varibles to ConnectionURI at [MongoDb Connection URI](./index.js#L20)
+- Follow Srcipts
+  - `npm i`
+  - `npm start`
+- [API(s) Routes List](./lib/CONSTANTS.js#L9)
 ## Deadline
 Please complete it within 3 days of assignment. 
 
