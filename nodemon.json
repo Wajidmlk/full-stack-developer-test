@@ -1,0 +1,6 @@
+{
+  "ext": "js,json",
+  "env": {
+    "TOKEN_KEY": ""
+  }
+}
